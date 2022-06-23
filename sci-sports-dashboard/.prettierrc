@@ -1,0 +1,13 @@
+{
+  "arrowParens": "always",
+  "trailingComma": "none",
+  "singleQuote": true,
+  "overrides": [
+    {
+        "files": ["**/*.css", "**/*.scss", "**/*.html", "**/*.vue"],
+        "options": {
+            "singleQuote": false
+        }
+    }
+]
+}
